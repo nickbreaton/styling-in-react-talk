@@ -1,9 +1,9 @@
 import React from 'react';
 import './index.css';
 
-const App = ({ children }) => (
+const App = ({ name }) => (
   <button className='method-2__button'>
-    Click Me
+    {name}
   </button>
 );
 

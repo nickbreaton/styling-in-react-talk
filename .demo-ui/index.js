@@ -7,6 +7,7 @@ injectGlobal`
     padding: 0;
     box-sizing: border-box;
     font-family: 'IBM Plex Sans';
+    outline: 0;
   }
 `;
 

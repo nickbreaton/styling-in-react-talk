@@ -1,9 +1,9 @@
 import React from 'react';
 import styles from './index.css';
 
-const App = () => (
+const App = ({ name }) => (
   <button className={styles.button}>
-    Click Me
+    {name}
   </button>
 );
 
