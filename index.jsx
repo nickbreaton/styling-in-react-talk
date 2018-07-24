@@ -8,7 +8,7 @@ import Method3 from './methods/method-3-css-modules';
 import Method4 from './methods/method-4-css-in-js';
 
 const App = () => (
-  <Demo default="CSS in JS">
+  <Demo default="Inline Styles">
     <Method1 name="Inline Styles" />
     <Method2 name="Plain Old CSS" />
     <Method3 name="CSS Modules" />
