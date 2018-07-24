@@ -3,15 +3,15 @@ import styled from 'styled-components';
 
 const Button = styled.button`
   background: transparent;
-  color: rgb(255,121,198);
-  border: 0.2em solid currentColor;
+  color: #FF79C6;
+  border: 0.2em solid #FF79C6;
   border-radius: 0.25em;
   font-size: 2rem;
   font-weight: bold;
   cursor: pointer;
   padding: 0.5em 1em;
   &:hover {
-    background: rgb(255,121,198);
+    background: #FF79C6;
     color: white;
   }
 `;

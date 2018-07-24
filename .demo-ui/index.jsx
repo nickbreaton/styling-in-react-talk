@@ -14,7 +14,7 @@ injectGlobal`
 const Background = styled.div`
   display: flex;
   align-items: center;
-  background: rgb(40, 42, 54);
+  background: #282A36;
   min-height: 100vh;
   flex-direction: column;
   padding: 1rem;
@@ -37,7 +37,7 @@ const Link = styled.button`
 
 const Links = styled.nav`
   display: flex;
-  margin-bottom: 5rem;
+  margin-bottom: 3rem;
 `;
 
 class Demo extends React.Component {
