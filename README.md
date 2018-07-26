@@ -12,7 +12,7 @@ Please open issues with any questions!
 
 Follow the steps:
 ```
-git clone https://github.com/nickbreaton/styling-in-react-talk/edit/master/README.md
+git clone https://github.com/nickbreaton/styling-in-react-talk
 cd styling-in-react-talk
 npm install
 npm start
