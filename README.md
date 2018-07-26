@@ -1,6 +1,8 @@
 # Styling in React
 
-Please open issues with any questions!
+A high level talk about React styling patterns.
+
+💥 Please open issues with any questions!
 
 ## Resources
 
@@ -18,7 +20,7 @@ npm install
 npm start
 ```
 
-Then, head to http://localhost:8080.
+Then, head to `http://localhost:8080`.
 
 ## Useful Links
 
