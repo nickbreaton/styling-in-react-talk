@@ -1,4 +1,4 @@
-# styling-in-react-talk
+# Styling in React
 
 Please open issues with any questions!
 
