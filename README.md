@@ -20,7 +20,7 @@ npm install
 npm start
 ```
 
-Then, head to `http://localhost:8080`.
+Then, head to [`http://localhost:8080`](http://localhost:8080).
 
 ## Useful Links
 
